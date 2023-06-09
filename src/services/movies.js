@@ -1,5 +1,5 @@
 const KEY = 'c40919d';
-const API_URL = 'http://www.omdbapi.com/';
+const API_URL = 'https://www.omdbapi.com/';
 
 export const searchMovies = async ({ search }) => {
   if (search === '') return null;
