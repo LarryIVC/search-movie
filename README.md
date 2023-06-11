@@ -28,7 +28,7 @@
 - [📝 License](#license)
 
 
-# 📖 [Crypto Coinranking] <a name="about-project"></a>
+# 📖 [Search Movies] <a name="about-project"></a>
 
 **[Search Movies]** is a powerful web application designed specifically for search movies. It leverages the capabilities of React to provide comprehensive information about various movies.
 
