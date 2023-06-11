@@ -30,7 +30,7 @@
 
 # 📖 [Crypto Coinranking] <a name="about-project"></a>
 
-**[Crypto Coinranking]** is a powerful web application designed specifically for search movies. It leverages the capabilities of React to provide comprehensive information about various movies.
+**[Search Movies]** is a powerful web application designed specifically for search movies. It leverages the capabilities of React to provide comprehensive information about various movies.
 
 ## 🛠 Built With <a name="built-with"></a>
 
