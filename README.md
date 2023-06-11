@@ -31,7 +31,7 @@
 # 📖 [Search Movies] <a name="about-project"></a>
 
 **[Search Movies]** is a powerful web application designed specifically for search movies. It leverages the capabilities of React to provide comprehensive information about various movies.
-
+<img src = "mockup-app.PNG">
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
